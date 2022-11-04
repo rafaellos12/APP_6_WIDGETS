@@ -96,7 +96,7 @@ def main():
         st.text("3. Movies App: Using online server")
         st.text("4. Calculator App: Using serverless aws lambda functions")
         st.text("5. Top sites App: Using serverless aws lambda functions")
-        st.text("6. Weather App: Using serverless aws lambda functions")
+        st.text("6. Image View App: Using serverless aws lambda functions")
         st.caption("****************************************")
         st.caption("YOU CAN HAVE ACCESS TO THESE APPLICATION FROM THE MENU ON THE LEFT SIDE")
         st.caption("****************************************")
